@@ -1,6 +1,29 @@
+轻量级在线翻译挂件
+<br><img width="95" height="72" alt="image" src="https://github.com/user-attachments/assets/aec4c255-8ebb-4172-8b35-1015d071d81b" /></br>
+
+#右键菜单
+<br><img width="192" height="120" alt="image" src="https://github.com/user-attachments/assets/3e39bea2-9209-486a-81fe-ffdc3fcc8ad5" /></br>
+
+#可选择翻译服务以优化翻译速度
+<br><img width="265" height="207" alt="image" src="https://github.com/user-attachments/assets/f28ebfb2-61e5-4359-b8aa-fed1dd4cbbe9" /><br>
+
+
+
+
+>>>>>>> b9d04720efe95dff17376f99d8cfa8dd2802b6e0
 # TransLite
 
 轻量级英中互译悬浮工具：选中文本后显示"译"按钮，点击即翻译。
+
+<br><img width="95" height="72" alt="image" src="https://github.com/user-attachments/assets/aec4c255-8ebb-4172-8b35-1015d071d81b" /></br>
+
+## 界面预览
+
+### 右键菜单
+<br><img width="192" height="120" alt="image" src="https://github.com/user-attachments/assets/3e39bea2-9209-486a-81fe-ffdc3fcc8ad5" /></br>
+
+### 翻译服务选择
+<br><img width="265" height="207" alt="image" src="https://github.com/user-attachments/assets/f28ebfb2-61e5-4359-b8aa-fed1dd4cbbe9" /><br>
 
 ## 安装
 
@@ -23,7 +46,7 @@ start.bat
 ## 打包
 
 ```bash
-python build_fixed.py
+python build.py
 ```
 
 ## 使用方法
@@ -50,5 +73,19 @@ python build_fixed.py
 - `overlay.py` - 界面组件和系统托盘
 - `selection.py` - 文本选择检测
 - `translator_config.json` - 翻译服务配置
-- `build_fixed.py` - 打包脚本
+- `build.py` - 打包脚本
 - `start.bat` - 启动脚本
+=======
+轻量级在线翻译挂件
+<br><img width="95" height="72" alt="image" src="https://github.com/user-attachments/assets/aec4c255-8ebb-4172-8b35-1015d071d81b" /></br>
+
+#右键菜单
+<br><img width="192" height="120" alt="image" src="https://github.com/user-attachments/assets/3e39bea2-9209-486a-81fe-ffdc3fcc8ad5" /></br>
+
+#可选择翻译服务以优化翻译速度
+<br><img width="265" height="207" alt="image" src="https://github.com/user-attachments/assets/f28ebfb2-61e5-4359-b8aa-fed1dd4cbbe9" /><br>
+
+
+
+
+>>>>>>> b9d04720efe95dff17376f99d8cfa8dd2802b6e0
