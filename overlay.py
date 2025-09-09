@@ -437,9 +437,8 @@ def _show_about_dialog():
     """显示关于对话框"""
     from PyQt5.QtWidgets import QMessageBox
     about_text = """
-TransLite - 轻量级英中互译工具
-
-使用F2键或点击悬浮按钮进行翻译
+TransLite - 轻量级中英互译工具
+选中文本按下F2键点击‘译’进行翻译
 右键托盘图标可选择翻译服务
 """.strip()
     QMessageBox.information(None, "关于 TransLite", about_text)

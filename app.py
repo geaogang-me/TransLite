@@ -139,7 +139,7 @@ def main() -> int:
 	if not tray_icon:
 		# 如果系统不支持托盘，至少显示一个消息提示
 		from PyQt5.QtWidgets import QMessageBox
-		QMessageBox.information(None, "TransLite", "程序已启动，请使用F2键选择文本进行翻译")
+		QMessageBox.information(None, "TransLite", "程序已启动，选中文本后按下F2键点击‘译’进行翻译")
 	else:
 		# 显示启动通知
 		show_startup_notification(tray_icon)
