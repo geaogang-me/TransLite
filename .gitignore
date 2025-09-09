@@ -11,6 +11,7 @@ ENV/
 
 # PyInstaller 相关
 build/
+dist/
 *.spec
 
 # IDE 相关
