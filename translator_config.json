@@ -1,0 +1,15 @@
+{
+    "timeout_seconds": 8.0,
+    "libre_servers": [
+        "https://libretranslate.de/translate",
+        "https://translate.fedilab.app/translate",
+        "https://translate.argosopentech.com/translate",
+        "https://translate.astian.org/translate",
+        "https://libretranslate.pussthcat.org/translate",
+        "https://translate.mentality.rip/translate",
+        "https://libretranslate.eownerdead.dedyn.io/translate"
+    ],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    "enable_google_fallback": true,
+    "enable_debug_output": false
+}

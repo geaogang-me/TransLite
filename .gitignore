@@ -1,0 +1,33 @@
+# Python 相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+ENV/
+
+# PyInstaller 相关
+build/
+*.spec
+
+# IDE 相关
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 操作系统相关
+.DS_Store
+Thumbs.db
+
+# 项目特定文件
+*.lock
+*.log
+
+# 临时文件
+*.tmp
+*.temp
