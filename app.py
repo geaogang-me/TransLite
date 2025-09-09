@@ -65,7 +65,7 @@ def show_startup_notification(tray_icon):
 		# 使用托盘通知显示启动信息
 		tray_icon.showMessage(
 			"🚀 TransLite 已启动！",
-			"🔍 选中文本按 F2 键进行翻译\n⚙️ 右键托盘查看设置选项",
+			"🔍 选中文本按 F2 键点击‘译’翻译\n⚙️ 右键托盘查看设置选项",
 			QSystemTrayIcon.Information,
 			5000  # 显示5秒
 		)
